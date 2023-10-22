@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Touple\Touple\bin\Debug\Touple.exe.config
+C:\Users\Asus\source\repos\Touple\Touple\bin\Debug\Touple.exe
+C:\Users\Asus\source\repos\Touple\Touple\bin\Debug\Touple.pdb
+C:\Users\Asus\source\repos\Touple\Touple\obj\Debug\Touple.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Touple\Touple\obj\Debug\Touple.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Touple\Touple\obj\Debug\Touple.exe
+C:\Users\Asus\source\repos\Touple\Touple\obj\Debug\Touple.pdb
